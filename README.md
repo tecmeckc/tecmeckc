@@ -30,15 +30,14 @@ Here are some of the technologies and tools I work with:
 
 ## 📌 Featured Projects
 
-- [**OTP Verification Setup**](https://github.com/tecmeckc/OTPVerificationSetup): A mini project built with Node.js, Express, MongoDB, and EJS, designed to integrate third-party services for OTP-based registration and profile management for buyers and sellers.&#8203;:contentReference[oaicite:2]{index=2}
+- [**OTP Verification Setup**](https://github.com/tecmeckc/OTPVerificationSetup)
+- [**Dashboard Generator**](https://github.com/tecmeckc/Experiment-Project)
 
-- [**Dashboard Generator**](https://github.com/tecmeckc/Experiment-Project): :contentReference[oaicite:3]{index=3}&#8203;:contentReference[oaicite:4]{index=4}
+- [**WishNShop**](https://github.com/tecmeckc/WishNShop)
 
-- [**WishNShop**](https://github.com/tecmeckc/WishNShop): :contentReference[oaicite:5]{index=5}&#8203;:contentReference[oaicite:6]{index=6}
+- [**DSA in C**](https://github.com/tecmeckc/DSA-in-C)
 
-- [**DSA in C**](https://github.com/tecmeckc/DSA-in-C): :contentReference[oaicite:7]{index=7}&#8203;:contentReference[oaicite:8]{index=8}
-
-- [**Problem Solving**](https://github.com/tecmeckc/ProblemSolving): :contentReference[oaicite:9]{index=9}&#8203;:contentReference[oaicite:10]{index=10}
+- [**Problem Solving**](https://github.com/tecmeckc/ProblemSolving)
 
 ## 📈 GitHub Stats
 
