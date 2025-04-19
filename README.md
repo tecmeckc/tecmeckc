@@ -45,6 +45,7 @@ Here are some of the technologies and tools I work with:
 ![Khyati's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tecmeckc&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tecmeckc&layout=compact&theme=radical)
+![tecmeckc's Streak](https://github-readme-streak-stats.herokuapp.com/?user=tecmeckc&theme=vue-dark&hide_border=true)
 
 ## 📫 Connect with Me
 
