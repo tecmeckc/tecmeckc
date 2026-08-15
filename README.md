@@ -127,7 +127,7 @@ An interactive dashboard designed for exploring datasets through
 dynamic visualizations.
 
 - 📈 Interactive charts
-- 🔎 Client-side filtering
+- 🔎 Dynamic client-side filtering
 - 📊 Dynamic data visualization
 - ⚡ Built with Plotly.js
 
@@ -153,9 +153,13 @@ My collection of programming and problem-solving solutions.
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=tecmeckc&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
+<a href="https://github.com/tecmeckc">
+<img src="https://github-stats-extended.vercel.app/api?username=tecmeckc&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" />
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tecmeckc&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
+<a href="https://github.com/tecmeckc">
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=tecmeckc&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" />
+</a>
 
 </p>
 
@@ -165,7 +169,7 @@ My collection of programming and problem-solving solutions.
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tecmeckc&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=tecmeckc&theme=tokyonight&hide_border=true" />
 
 </p>
 
@@ -175,7 +179,7 @@ My collection of programming and problem-solving solutions.
 
 <p align="center">
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tecmeckc&theme=tokyo-night&hide_border=true)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tecmeckc&theme=tokyo-night&hide_border=true" />
 
 </p>
 
@@ -185,7 +189,7 @@ My collection of programming and problem-solving solutions.
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=tecmeckc&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=tecmeckc&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
 
 </p>
 
