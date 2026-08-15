@@ -169,7 +169,7 @@ My collection of programming and problem-solving solutions.
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=tecmeckc&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=tecmeckc&theme=tokyonight&hide_border=true" />
 
 </p>
 
@@ -180,16 +180,6 @@ My collection of programming and problem-solving solutions.
 <p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=tecmeckc&theme=tokyo-night&hide_border=true" />
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=tecmeckc&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
 
 </p>
 
