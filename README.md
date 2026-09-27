@@ -8,7 +8,7 @@
 
 - 🎓 I'm a **4th-year B.Tech (CSE)** student passionate about building real-world software applications.
 - 💻 Currently focused on **Backend Development, Full-Stack Development, DSA, and Machine Learning**.
-- 🔭 Working on:
+- 🔭 Some of my projects are:
   - 🌍 **Outly — Personalized Outing Planner**
   - 🤖 **AI Content Moderation System**
   - 🎵 **Emotion-Aware Music Recommendation System**
